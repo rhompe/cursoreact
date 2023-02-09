@@ -1,0 +1,31 @@
+.cardproductos{
+margin:10px;
+align-items: center; /* estos aliniean el producto tal cual al centro con el de abajo*/
+justify-content: center;
+}
+
+.cardProducto{
+width: 18rem;
+margin: 4px;
+background-color:hsl(0,0%,97%) ;
+}
+
+.cardBody{
+    background-color: white;
+    margin-bottom: 3px;
+    text-align: center;
+}
+ 
+.img {
+    margin-top: 40px;
+}
+.itemDetail{
+    margin-top: 20px;
+    max-width: 540px;
+}
+.itemDetail img{
+    margin-top: 40px;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+}

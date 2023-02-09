@@ -2,18 +2,18 @@
 [
     {
         "id":1 ,
-        "idCategoria":"Anillos",
+        "idCategoria":1,
         "nombre":"Anillo Matri",
         "marca":"Pandora",
         "modelo":"g7t7",
-        "precio":550,
+        "precio":55000,
         "stock":10,
         "img": "jdjd"
 
     },
     {
         "id":2,
-        "idCategoria":"Anillos",
+        "idCategoria":1,
         "nombre":"Anillos para ella",
         "marca":"Nuestra",
         "modelo":"y6g2",
@@ -24,7 +24,7 @@
     },
     {
         "id":3 ,
-        "idCategoria":"Collares",
+        "idCategoria":2,
         "nombre":"Collar para mujer",
         "marca":"Nuestra",
         "modelo":"t3t7",
@@ -35,7 +35,7 @@
     },
     {
         "id":4 ,
-        "idCategoria":"Collares",
+        "idCategoria":2,
         "nombre":"Dorado Casual",
         "marca":"Nuestra",
         "modelo":"8e5e",
@@ -46,7 +46,7 @@
     },
     {
         "id":5 ,
-        "idCategoria":"Collares",
+        "idCategoria":2,
         "nombre":"Negro de Acero Inx",
         "marca":"sin marca",
         "modelo":"shyj2",
@@ -57,18 +57,18 @@
     },
     {
         "id":6 ,
-        "idCategoria":"Pulsera",
+        "idCategoria":3,
         "nombre":"Pulsera de Perlas",
         "marca":"Nuestra",
         "modelo":"fudq121",
         "precio":200,
         "stock":15,
-        "img":"../imagenes/pulsera.jpg"
+        "img":"pulsera.jpg"
 
     },
     {
         "id":7 ,
-        "idCategoria":"Pulsera",
+        "idCategoria":3,
         "nombre":"Caras Feliz",
         "marca":"Nuestra",
         "modelo":"dfgh55",
