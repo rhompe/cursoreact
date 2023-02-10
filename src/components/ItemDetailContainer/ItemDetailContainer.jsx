@@ -12,12 +12,12 @@ const ItemDetailContainer = () => {
             const item = products.find(prod => prod.id === parseInt(id))
             setProducto(item)
         })
-    }, [id])
+    }, [])
     return (
         <div className='card mb-3 container itemDetail'>
             <ItemDetail item={producto}/>
         </div>
-    )
+    );
 
 }
 
